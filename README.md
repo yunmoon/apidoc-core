@@ -1,5 +1,6 @@
 # apidoc-core
 
+支持中文分组名
 Core parser library to generate apidoc result following the [apidoc-spec](https://github.com/apidoc/apidoc-spec)
 
 [![Build Status](https://travis-ci.org/apidoc/apidoc-core.svg?branch=master)](https://travis-ci.org/apidoc/apidoc-core)
